@@ -1,4 +1,4 @@
-# sabairhussain.github.io# Syed Sabair Hussain — Personal Portfolio
+# Syed Sabair Hussain — Personal Portfolio
 
 > IAM & Cybersecurity Professional | Identity Governance | Security Analytics
 
