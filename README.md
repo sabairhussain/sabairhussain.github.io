@@ -4,14 +4,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sabair-h-a6498426b)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussiansd18@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://your-username.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://sabairhussain.github.io)
 [![Location](https://img.shields.io/badge/Location-Columbus,_Ohio-gray?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ---
 
 ## 🌐 Portfolio
 
-> 🔗 **Live Site:** [https://your-username.github.io](https://your-username.github.io)
+> 🔗 **Live Site:** [https://sabairhussain.github.io](https://sabairhussain.github.io)
 
 A fully responsive personal portfolio website built with pure **HTML, CSS & JavaScript** — no frameworks, no build tools, no dependencies. Just open and deploy.
 
@@ -150,10 +150,10 @@ No installation required. Simply clone and open:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-username.github.io.git
+git clone https://github.com/sabairhussain/sabairhussain.github.io.git
 
 # Navigate into the folder
-cd your-username.github.io
+cd sabairhussain.github.io
 
 # Open in browser
 open index.html       # macOS
@@ -170,7 +170,7 @@ xdg-open index.html   # Linux
 2. Go to Settings → Pages
 3. Source: Deploy from branch → main → / (root)
 4. Click Save
-5. Live at: https://your-username.github.io  ✅
+5. Live at: https://sabairhussain.github.io  ✅
 ```
 
 ---
