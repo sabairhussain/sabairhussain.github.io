@@ -203,6 +203,16 @@ img { max-width:100%; }
   background:rgba(0,201,177,0.08);
   transform:translateY(-2px);
 }
+.btn-resume {
+  background: transparent;
+  color: var(--text);
+  border: 1.5px solid rgba(255,255,255,0.2);
+}
+.btn-resume:hover {
+  border-color: var(--teal);
+  color: var(--teal);
+  transform: translateY(-2px);
+}
 .hero-socials { display:flex; gap:0.75rem; }
 .hero-socials a {
   width:40px; height:40px;
@@ -681,6 +691,7 @@ footer {
     <li><a href="#experience">Experience</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="resume.pdf" download="Syed_Sabair_Hussain_Resume.pdf" style="color:var(--teal);border:1px solid var(--teal);padding:4px 14px;border-radius:6px;"><i class="fas fa-download"></i> Resume</a></li>
   </ul>
   <ul class="nav-mobile" id="navMobile">
     <li><a href="#home" onclick="closeNav()">Home</a></li>
@@ -689,6 +700,7 @@ footer {
     <li><a href="#experience" onclick="closeNav()">Experience</a></li>
     <li><a href="#projects" onclick="closeNav()">Projects</a></li>
     <li><a href="#contact" onclick="closeNav()">Contact</a></li>
+    <li><a href="resume.pdf" download="Syed_Sabair_Hussain_Resume.pdf" onclick="closeNav()" style="color:var(--teal)"><i class="fas fa-download"></i> Download Resume</a></li>
   </ul>
 </nav>
 
@@ -710,6 +722,7 @@ footer {
       <div class="hero-actions">
         <a href="#contact" class="btn btn-primary"><i class="fas fa-paper-plane"></i> Hire Me</a>
         <a href="#projects" class="btn btn-secondary"><i class="fas fa-folder-open"></i> View Projects</a>
+        <a href="resume.pdf" download="Syed_Sabair_Hussain_Resume.pdf" class="btn btn-resume"><i class="fas fa-download"></i> Download Resume</a>
       </div>
       <div class="hero-socials">
         <a href="https://www.linkedin.com/in/syed-sabair-h-a6498426b" target="_blank"><i class="fab fa-linkedin-in"></i></a>
@@ -785,6 +798,7 @@ footer {
           </div>
         </div>
         <a href="mailto:hussiansd18@gmail.com" class="about-dl"><i class="fas fa-envelope"></i> Contact Me</a>
+        <a href="resume.pdf" download="Syed_Sabair_Hussain_Resume.pdf" class="about-dl" style="margin-top:0.6rem;background:transparent;border:1.5px solid var(--teal);color:var(--teal);"><i class="fas fa-download"></i> Download Resume</a>
       </div>
 
       <div class="about-body reveal d1">
